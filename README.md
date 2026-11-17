@@ -130,9 +130,8 @@ The requirements and workflows are simulated for learning and demonstration purp
 ## 12. Author
 
 **Gabriel Cavalcante Pereira**
-
 Technology professional | Systems Analysis and Development Student
 
 Brazil
 
-[LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](YOUR_GITHUB_URL)
+[LinkedIn](www.linkedin.com/in/gabriel-cavalcante-668128280) | [GitHub]([YOUR_GITHUB_URL](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fgithub.com%2Fgabrielcavalcantpereira&urlhash=gDSo&mt=BrQgiHw5hVDuvxaNJgz3gxVBiZed6Htt1i0N-AlXx2x2lNHq0fo7yLQQ8zylFhqrABLlU7n_U1c9U1zca4LJS9Li7MQ28eksHKA1bXRM-1ZOCpQ3UXHs22id6maWM0iiGu_xkslBTkaSWDLERunoxFzCg8efy3s3ebamXvHUJZmcYc59NRSaTnL-Ki7Ktw&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9QgLqH8%2FTdOhLdbOMfEWuA%3D%3D))
