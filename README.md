@@ -1,2 +1,141 @@
 # business-requirements-analysis.
 Business requirements analysis, user stories and process documentation.
+# Business Requirements Analysis
+
+### Business Process Analysis | Requirements Engineering | ERP Systems
+
+## 1. Project Overview
+
+This project presents a simulated business requirements analysis for a fictional retail company seeking to improve its operational processes through an Enterprise Resource Planning (ERP) system.
+
+The analysis focuses on identifying business needs, documenting functional and non-functional requirements, mapping business processes and defining acceptance criteria.
+
+The objective is to demonstrate how business requirements can be translated into structured system specifications.
+
+## 2. Business Case
+
+### Company Scenario
+
+A fictional retail company manages its sales, purchases and inventory through spreadsheets and manual processes.
+
+As the business grows, several operational challenges emerge:
+
+- Lack of centralized information.
+- Difficulty tracking inventory levels.
+- Manual errors in product and order records.
+- Delays in purchase management.
+- Limited visibility into business operations.
+
+The company needs an integrated ERP solution to improve efficiency, accuracy and information management.
+
+## 3. Project Objectives
+
+- Identify operational problems and business needs.
+- Analyze and document business requirements.
+- Define functional and non-functional requirements.
+- Map essential business processes.
+- Create user stories and acceptance criteria.
+- Propose an ERP-based solution.
+
+## 4. Scope of the Project
+
+The proposed ERP solution covers three main business areas:
+
+| Module | Main Functions |
+|---|---|
+| Sales | Customer registration and order management |
+| Inventory | Product registration and stock control |
+| Purchasing | Supplier registration and purchase orders |
+
+## 5. Functional Requirements
+
+| ID | Requirement | Description |
+|---|---|---|
+| FR-01 | Customer Management | The system must allow users to register and manage customers. |
+| FR-02 | Product Management | The system must allow users to register and update products. |
+| FR-03 | Sales Management | The system must allow users to create and track sales orders. |
+| FR-04 | Inventory Control | The system must update stock quantities after confirmed transactions. |
+| FR-05 | Purchase Management | The system must allow users to create and manage purchase orders. |
+| FR-06 | Reporting | The system must generate basic sales and inventory reports. |
+
+## 6. Non-Functional Requirements
+
+| ID | Requirement | Description |
+|---|---|---|
+| NFR-01 | Usability | The system should provide an intuitive user interface. |
+| NFR-02 | Security | Access to sensitive information must be restricted by user permissions. |
+| NFR-03 | Reliability | The system should maintain data consistency. |
+| NFR-04 | Performance | Common operations should be completed within an acceptable response time. |
+| NFR-05 | Data Integrity | Business records must remain accurate and consistent. |
+
+## 7. User Stories
+
+**US-01: Customer Registration**
+
+As a sales employee, I want to register customers so that I can manage customer information and create sales orders.
+
+**US-02: Inventory Monitoring**
+
+As an inventory manager, I want to monitor product quantities so that I can avoid stock shortages.
+
+**US-03: Purchase Management**
+
+As a purchasing employee, I want to create purchase orders so that I can replenish inventory when necessary.
+
+**US-04: Business Reporting**
+
+As a business manager, I want to access sales and inventory reports so that I can make informed business decisions.
+
+## 8. Acceptance Criteria
+
+### US-02: Inventory Monitoring
+
+- Given that a product is registered in the system,
+- When a sales order is confirmed,
+- Then the available inventory quantity must be updated.
+- The system must prevent unauthorized stock modifications.
+- The updated quantity must be visible to authorized users.
+
+## 9. Business Process Overview
+
+The proposed operational workflow follows this sequence:
+
+1. Customer places an order.
+2. Sales employee registers the order.
+3. System checks product availability.
+4. Inventory is updated after order confirmation.
+5. Purchasing process is initiated when replenishment is required.
+6. Business reports are updated.
+
+## 10. Tools & Skills
+
+**Concepts and methodologies:**
+- Business Analysis
+- Requirements Engineering
+- Functional Requirements
+- Non-Functional Requirements
+- User Stories
+- Acceptance Criteria
+- Business Process Analysis
+
+**Technologies and tools:**
+- Microsoft Excel
+- SQL (planned application)
+- Python (planned application)
+- ERP Systems / Odoo (research and learning)
+
+## 11. Project Status
+
+This repository is an ongoing educational portfolio project based on a fictional business scenario.
+
+The requirements and workflows are simulated for learning and demonstration purposes. No production ERP implementation or real client engagement is claimed.
+
+## 12. Author
+
+**Gabriel Cavalcante Pereira**
+
+Technology professional | Systems Analysis and Development Student
+
+Brazil
+
+[LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](YOUR_GITHUB_URL)
